@@ -93,7 +93,10 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!-- <br>email: <{{ member.email }}></i> -->
+  {{ member.info }} 
+  <br>[Homepage]({{ member.homepage }}){:target="_blank"}{:rel="noopener noreferrer"}
+  <br><b>Email</b>: <{{ member.email }}>
+  <br><b>Educations</b>: 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -172,21 +175,21 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
+<!-- <h4>Visitors</h4> -->
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Master students</h4>
+<!-- <h4>Master students</h4> -->
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
 
 <div class="col-sm-4 clearfix">
-<h4>Bachelor Students</h4>
+<!-- <h4>Bachelor Students</h4> -->
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
