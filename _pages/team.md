@@ -28,8 +28,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <h4>{{ member.name }}</h4>
   {{ member.info }} 
   <br>Email: <{{ member.email }}>
-  <br>Homepage: {{ member.homepage }}
-  hahah
+  <br>[Homepage]({{ member.homepage }}){:target="_blank"}{:rel="noopener noreferrer"}
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
