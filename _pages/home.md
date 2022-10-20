@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at the Institute of Health Informatics (IHI), [University College London (UCL)] (https://www.ucl.ac.uk/). Our aim is to explore Artificial Intellignence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithms design, chronic disease care, hospital & patient management, precision medicine, health informatics, medical wearable technology, etc. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -53,20 +53,19 @@ research group at the [Leiden Institute of Physics](http://www.physics.leidenuni
 </div>
 
 
+To this end, we develop ML & AL algorithms in estimating and predicting incidents in various healthcare scenarios using personal time series and public EHR data. With the help of clinicians, patients and researchers, we also embed and deploy the proposed methods in hospitals & clinical trials, promoting AI from papers to healthcare systems to make real impact in improving human’s wellbeing. 
 
-
-To this end, we develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom. We want to be able to build the perfect instruments to answer the  scientific questions we deem most important (see [Research](research)).
-
-We are located at Leiden University, the birthplace of superconductivity and home to Kamerlingh Onnes, Lorentz, Huygens, Einstein, de Sitter, and others (see e.g. [the wall of signatures from Ehrenfest lecturers](https://www.lorentz.leidenuniv.nl/history/colloquium/muur_heel.html)). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at UCL London, the birthplace of Deepmind and have close collaborations with NHS hospitals (UCLH, etc). Our Institute is home to a unique range of expertise and talent resulting in highly impactful, world-changing research using large scale data and advanced analytics. 
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.remote_url }}{{ site.baseurl }}/vacancies) **!**
 
+We are grateful for funding from NHS-X, Rosetrees Trust, UKRI CDT, and UCL Hospital and Great Ormond Stree Hospital. 
 
-We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
-
+<!--
 <figure class="fourth">
   <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
+-->
