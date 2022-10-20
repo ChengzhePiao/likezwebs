@@ -5,8 +5,8 @@
   link:
     url: https://www.nature.com/articles/s41746-022-00626-5
     display: npj Digital Medicine volume 5, Article number 78 (2022) 
-  highlight: 1
-  news2: 0
+  highlight: 0
+  news2: 
 
 - title: "Machine learning for real-time aggregated prediction of hospital admission for emergency patients"
   image: zk_npj_paper.png
