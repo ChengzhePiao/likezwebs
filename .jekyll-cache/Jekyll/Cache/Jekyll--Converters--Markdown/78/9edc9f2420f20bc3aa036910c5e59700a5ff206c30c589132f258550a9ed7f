@@ -1,15 +1,7 @@
----
-title: "AI4H Lab - Vacancies"
-layout: textlay
-excerpt: "Openings"
-sitemap: false
-permalink: /vacancies
----
+I"
+<h1 id="open-positions">Open positions</h1>
 
-# Open positions
-
-<!--**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)).**-->
-
+<!--**Note: We currently don't have funding for additional PhD and postdoc positions. We can only welcome you if you have a fellowship. I'd be happy to support you after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call](/likezwebs/downloads/h2020-wp1820-msca_en.pdf)).**-->
 
 <!--
 
@@ -20,11 +12,11 @@ You will have the chance to work on the grand challenges of condensed matter phy
 ### Past open positions
 
 You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf), 
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
+[Opening 1](/likezwebs/downloads/GeneralPostdoc_2019_v01.pdf),
+[Opening 2](/likezwebs/downloads/PPMS_PhD_2019_v01.pdf),
+[Opening 3](/likezwebs/downloads/PD.pdf),
+[Opening 4](/likezwebs/downloads/PHD1.pdf), 
+[Opening 5](/likezwebs/downloads/PHD2.pdf).
 
 ### Applications for PhD and Postdoc positions
 If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
@@ -38,14 +30,17 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 
 <figure>
-<img src="{{ site.remote_url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="https://chengzhepiao.github.io/likezwebs/images/picpic/Gallery/DSC_0696.jpg" width="95%">
 </figure>
 
 -->
-## Open PhD positions
-Please [email](ken.li@ucl.ac.uk) for details. Potential PhD student can apply for PhD scholarship through 
-- CDT: AI-enabled Healthcare Systems
-- HDR UK-Turing Wellcome PhD Programme
-- UCL-Birkbeck MRC DTP
+<h2 id="open-phd-positions">Open PhD positions</h2>
+<p>Please <a href="ken.li@ucl.ac.uk">email</a> for details. Potential PhD student can apply for PhD scholarship through</p>
+<ul>
+  <li>CDT: AI-enabled Healthcare Systems</li>
+  <li>HDR UK-Turing Wellcome PhD Programme</li>
+  <li>UCL-Birkbeck MRC DTP</li>
+</ul>
 
-For overseas students, please refer to the Overseas Research Scholarship. 
+<p>For overseas students, please refer to the Overseas Research Scholarship.</p>
+:ET
