@@ -49,3 +49,11 @@ Please [email](ken.li@ucl.ac.uk) for details. Potential PhD student can apply fo
 - UCL-Birkbeck MRC DTP
 
 For overseas students, please refer to the Overseas Research Scholarship. 
+
+## Open Postdoctoral fellowships
+
+Opportunities of postdoctoral research fellowships:
+- [EU Marie Curie Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/) (offering attractive salary for 2 years)
+- [EPSRC Postdoctoral Fellowship](https://www.ukri.org/publications/post-doctoral-and-open-fellowships/)
+- [Newton International Fellowship](https://royalsociety.org/grants-schemes-awards/grants/newton-international/)
+- [Royal Academy of Engineering Research Fellowship](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships)
