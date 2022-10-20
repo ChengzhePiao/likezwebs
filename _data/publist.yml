@@ -8,6 +8,25 @@
   highlight: 1
   news2: 0
 
+- title: "Personalized Blood Glucose Prediction for Type 1 Diabetes Using Evidential Deep Learning and Meta-Learning"
+  image: taiyu_paper_1.png
+  description: We propose a novel deep learning framework, Fast-adaptive and Confident Neural Network (FCNN). An attention-based recurrent neural network is used to learn representations from contiuous glucose monitoring input and forward a weighted sum of hidden states to an evidential output layer, aiming to compute personalized BG predictions with theoretically supported model confidence. The model-agnostic meta-learning is employed to enable fast adaptation for a new T1D subject with limited training data.
+  authors: T Zhu, K Li, P Herrero, P Georgiou
+  link:
+    url: https://ieeexplore.ieee.org/document/9813400
+    display: IEEE Transactions on Biomedical Engineering (2021)
+  highlight: 1
+  news2: 0
+
+- title: "Personalized Blood Glucose Prediction for Type 1 Diabetes Using Evidential Deep Learning and Meta-Learning"
+  image: taiyu_paper_1.png
+  description: We propose a novel deep learning framework, Fast-adaptive and Confident Neural Network (FCNN). An attention-based recurrent neural network is used to learn representations from contiuous glucose monitoring input and forward a weighted sum of hidden states to an evidential output layer, aiming to compute personalized BG predictions with theoretically supported model confidence. The model-agnostic meta-learning is employed to enable fast adaptation for a new T1D subject with limited training data.
+  authors: T Zhu, K Li, P Herrero, P Georgiou
+  link:
+    url: https://ieeexplore.ieee.org/document/9813400
+    display: IEEE Transactions on Biomedical Engineering (2021)
+  highlight: 1
+  news2: 0
 
 # - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
 #   image: TBG_SL.png
