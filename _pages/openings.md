@@ -48,7 +48,7 @@ Please email for details. Potential PhD student can apply for PhD scholarship th
 - [HDR UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/)
 - [UCL-Birkbeck MRC DTP](https://www.uclbbk-mrcdtp.ac.uk/)
 
-For overseas students, please refer to the Overseas Research Scholarship. 
+For overseas students, please refer to the [Overseas Research Scholarship](https://www.ucl.ac.uk/scholarships/research-excellence-scholarship). 
 
 ## Open Postdoctoral fellowships
 
