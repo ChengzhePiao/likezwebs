@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the Institute of Health Informatics (IHI), [University College London (UCL)](https://www.ucl.ac.uk/). Our aim is to explore Artificial Intellignence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithms design, chronic disease care, hospital & patient management, precision medicine, health informatics, medical wearable technology, etc. 
+We are a dynamic research group at the [Institute of Health Informatics (IHI)](https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics), [University College London (UCL)](https://www.ucl.ac.uk/). Our aim is to explore Artificial Intellignence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithms design, chronic disease care, hospital & patient management, precision medicine, health informatics, medical wearable technology, etc. 
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
