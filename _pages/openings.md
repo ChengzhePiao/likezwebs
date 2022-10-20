@@ -43,7 +43,7 @@ If you are interested in pursuing a Master degree at Leiden University, see [mas
 
 -->
 ## Open PhD positions
-Please [email](ken.li@ucl.ac.uk) for details. Potential PhD student can apply for PhD scholarship through 
+Please email for details. Potential PhD student can apply for PhD scholarship through 
 - [CDT AI-enabled Healthcare Systems](https://www.ucl.ac.uk/aihealth-cdt/information-applicants)
 - [HDR UK-Turing Wellcome PhD Programme](https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/)
 - [UCL-Birkbeck MRC DTP](https://www.uclbbk-mrcdtp.ac.uk/)
