@@ -11,7 +11,9 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))
+<!--(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.ch/citations?user=TqxYWZsAAAAJ), [ResearcherID](https://www.researcherid.com/rid/D-7763-2012))-->
+
+For a full list of publications see [Ken (kezhi) Li](https://scholar.google.com/citations?user=0rO99XYAAAAJ&hl=en&oi=sra), [Zella King](https://scholar.google.com/citations?hl=en&user=Is8niCoAAAAJ)
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -51,7 +53,7 @@ permalink: /publications/
 
 <p> &nbsp; </p>
 
-
+<!--
 ## Patents
 <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
 
@@ -65,3 +67,5 @@ permalink: /publications/
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
 {% endfor %}
+
+-->
