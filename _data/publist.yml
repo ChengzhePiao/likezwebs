@@ -32,7 +32,11 @@
   image: zk_cdt.png
   description: We created an reinforcement learning environment based on a platelet replenishment scenario from the literature and demonstrate that DRL methods can be used to learn effective ordering policies.
   authors: J. Farrington, K. Li, M. Utley, W. K. Wong
-
+  link:
+    url: 
+    display: January 2022, UK CDT_conference
+  highlight: 0
+  news2: 
 
 # - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
 #   image: TBG_SL.png
