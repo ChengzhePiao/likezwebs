@@ -1,4 +1,4 @@
-I"ÿ<p>We are a dynamic research group at the <a href="https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics">Institute of Health Informatics (IHI)</a>, <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>. Our aim is to explore Artificial Intellignence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithms design, chronic disease care, hospital &amp; patient management, precision medicine, health informatics, medical wearable technology, etc.</p>
+I"Œ<p>We are a dynamic research group at the <a href="https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics">Institute of Health Informatics (IHI)</a>, <a href="https://www.ucl.ac.uk/">University College London (UCL)</a>. Our aim is to explore Artificial Intellignence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithms design, chronic disease care, hospital &amp; patient management, precision medicine, health informatics, medical wearable technology, etc.</p>
 
 <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <!-- Menu -->
@@ -59,4 +59,8 @@
   <img src="https://chengzhepiao.github.io/likezwebs/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 -->
+
+<figure class="fourth">
+  <p><img src="https://chengzhepiao.github.io/likezwebs/images/logo/logo.png" style="width: 210px" /></p>
+</figure>
 :ET

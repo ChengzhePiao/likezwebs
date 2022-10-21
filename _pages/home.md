@@ -69,3 +69,7 @@ We are grateful for funding from NHS-X, Rosetrees Trust, UKRI CDT, and UCL Hospi
   <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 </figure>
 -->
+
+<figure class="fourth">
+  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logo/logo.png" style="width: 210px">
+</figure>
