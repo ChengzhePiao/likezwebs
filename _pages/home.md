@@ -71,7 +71,6 @@ We are grateful for funding from NHS-X, Rosetrees Trust, UKRI CDT, and UCL Hospi
 -->
 
 <figure class="fourth">
-  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logo/logo.png" style="width: 210px; margin:120px 20px">
+  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logo/logo.png" style="width: 210px; margin:10px 240px">
 </figure>
 
-![]({{ site.remote_url }}{{ site.baseurl }}/images/logo/logo.png){: style="width: 10%; float: center; margin: 12px"}
