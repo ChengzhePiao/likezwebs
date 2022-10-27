@@ -33,7 +33,7 @@ We are a dynamic research group at the [Institute of Health Informatics (IHI)](h
             <img src="{{ site.remote_url }}{{ site.baseurl }}/images/home_slide/img3.png" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.remote_url }}{{ site.baseurl }}/images/home_slide/img4.png" alt="Slide 4" />
+            <img src="{{ site.remote_url }}{{ site.baseurl }}/images/home_slide/img44.png" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.remote_url }}{{ site.baseurl }}/images/home_slide/img5.png" alt="Slide 5" />
@@ -42,7 +42,7 @@ We are a dynamic research group at the [Institute of Health Informatics (IHI)](h
             <img src="{{ site.remote_url }}{{ site.baseurl }}/images/home_slide/img6.png" alt="Slide 6" />
         </div>
     </div>
-    
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
