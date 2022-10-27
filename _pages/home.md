@@ -61,14 +61,15 @@ We are located at UCL London, the birthplace of Deepmind and have close collabor
 
 We are grateful for funding from NHS-X, Rosetrees Trust, UKRI CDT, and UCL Hospital and Great Ormond Stree Hospital. 
 
-<!--
-<figure class="fourth">
-  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
-  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
-  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
-  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
+
+<figure class="fifth">
+  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/logo_nhsx.png" style="width: 210px">
+  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/logo_rose_trust.png" style="width: 110px">
+  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/logo_ukri.png" style="width: 110px">
+  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/logo_uclh.png" style="width: 120px">
+  <img src="{{ site.remote_url }}{{ site.baseurl }}/images/logopic/ormond.png" style="width: 110px">
 </figure>
--->
+
 
 
 
