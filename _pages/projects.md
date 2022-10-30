@@ -25,5 +25,5 @@ Students who have interests in EHR visualisation and have good programming skill
 In this project we will investigate and try to answer the following questions
 1. review of health 3: web 3 in healthcare
 2. blockchain and DeFi in healthcare
-3. apps development using healthcare data (option1: can develop an app e.g. insulin advisor; option2: a questionnaire about applications of healthcare 3)
+3. apps development using healthcare data (option1: can develop an app e.g. insulin advisor; option2: a questionnaire about applications of healthcare 3) 
 4. future of health informatics?
