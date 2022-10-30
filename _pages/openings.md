@@ -59,7 +59,7 @@ Opportunities of postdoctoral research fellowships:
 - [Royal Academy of Engineering Research Fellowship](https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/research-fellowships)
 
 
-# Projects proposed by Ken (Kezhi) Li for Msc (2022-2023):
+# Projects proposed by Ken (Kezhi) Li for Msc (2022-2023)
 
 ## HDS program
 
