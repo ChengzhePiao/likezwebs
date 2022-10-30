@@ -22,7 +22,7 @@ Students who have interests in EHR visualisation and have good programming skill
 
 ## HI program
 ### Web 3.0 in healthcare: future of health informatics?  (optional: add app development) 
-In this project we will investigate and try to answer the following questions
+In this project we will investigate and try to answer the following questions:
 1. review of health 3: web 3 in healthcare
 2. blockchain and DeFi in healthcare
 3. apps development using healthcare data (option1: can develop an app e.g. insulin advisor; option2: a questionnaire about applications of healthcare 3) 
