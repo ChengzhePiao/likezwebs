@@ -16,7 +16,7 @@ In this project, we will investigate how accurate can we estimate glucose data u
 ### 2. Glucose imputation from sparse measurements using AI (GP and GAN)
 In this project, based on previous work we will continue to work on glucose imputation from sparse measurements (several times per day) using artificial intelligence algorithms, especially gaussian process, generative adversarial network (GAN) and other methods. Students who have good machine learning & python skills are recommended to apply.
 
-### 3. Digital twin and visualisation of real patient flow in hospital]
+### 3. Digital twin and visualisation of real patient flow in hospital
 This [project](https://github.com/CorsixTH/CorsixTH) will focus on developing a digital twin (visualisation) of real patient flow in hospitals using electronic health record (EHR).
 Students who have interests in EHR visualisation and have good programming skills are recommended to apply. (UCLH dummy data)
 

@@ -1,0 +1,24 @@
+I"…<h1 id="projects-proposed-by-ken-kezhi-li-for-msc-2022-2023">Projects proposed by Ken (Kezhi) Li for Msc (2022-2023):</h1>
+
+<h2 id="hds-program">HDS program</h2>
+
+<h3 id="1-personalised-glucose-estimation-using-physiological-data-shad-data--oiho2020-data">1. Personalised glucose estimation using physiological data (Shad data &amp; oiho2020 data)</h3>
+<p>In this project, we will investigate how accurate can we estimate glucose data using retrospective data and real-time physiological data only. Students who have good machine learning &amp; python skills are recommended to apply.</p>
+
+<h3 id="2-glucose-imputation-from-sparse-measurements-using-ai-gp-and-gan">2. Glucose imputation from sparse measurements using AI (GP and GAN)</h3>
+<p>In this project, based on previous work we will continue to work on glucose imputation from sparse measurements (several times per day) using artificial intelligence algorithms, especially gaussian process, generative adversarial network (GAN) and other methods. Students who have good machine learning &amp; python skills are recommended to apply.</p>
+
+<h3 id="3-digital-twin-and-visualisation-of-real-patient-flow-in-hospital">3. Digital twin and visualisation of real patient flow in hospital</h3>
+<p>This <a href="https://github.com/CorsixTH/CorsixTH">project</a> will focus on developing a digital twin (visualisation) of real patient flow in hospitals using electronic health record (EHR).
+Students who have interests in EHR visualisation and have good programming skills are recommended to apply. (UCLH dummy data)</p>
+
+<h2 id="hi-program">HI program</h2>
+<h3 id="web-30-in-healthcare-future-of-health-informatics--optional-add-app-development">Web 3.0 in healthcare: future of health informatics?  (optional: add app development)</h3>
+<p>In this project we will investigate and try to answer the following questions:</p>
+<ol>
+  <li>review of health 3: web 3 in healthcare</li>
+  <li>blockchain and DeFi in healthcare</li>
+  <li>apps development using healthcare data (option1: can develop an app e.g. insulin advisor; option2: a questionnaire about applications of healthcare 3)</li>
+  <li>future of health informatics?</li>
+</ol>
+:ET
