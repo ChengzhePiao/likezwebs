@@ -4,25 +4,36 @@
   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=KLIXX57
   email: ken.li@ucl.ac.uk
   number_educ: 2
-  education1: PhD in Imperial College of Science, Technology and Medicine, UK
-  education2: Undergraduate degree from the University of Science and Technology of China (USTC), China
+  education1: PhD at the Imperial College of Science, Technology and Medicine, UK
+  education2: Undergraduate degree at the University of Science and Technology of China (USTC), China
 
 
 - name: Zella King
   photo: Zella.jpg
-  info: Zella King is a Research Fellow at Institute of Health Informatics (IHI), University College London (UCL). From 2000 to 2014 she had an academic career in business schools teaching Human Resource Management. Her work on careers and research networks has been published in top business journals. She was awarded two ESRC grants and in 2007 a prestigious fellowship of the Advanced Institute of Management. In 2014 she took time out of academia to co-found a training company, Personal Boardroom, which has become commercially successful. In 2016, concerned about healthcare in ageing societies, she changed fields to focus on health data research. She has an honorary research contract at UCLH and worked with clinicians at UCLH to analyse patient outcomes in the first wave of the Covid-19 pandemic. She is currently working in the Clinical Operational Resource Unit at UCL to develop machine learning models that will help bed-planners at UCLH predict which patients will be admitted from the emergency department.
+  info: Zella King is a research fellow at Institute of Health Informatics (IHI), University College London (UCL). From 2000 to 2014 she had an academic career in business schools teaching Human Resource Management. Her work on careers and research networks has been published in top business journals. She was awarded two ESRC grants and in 2007 a prestigious fellowship of the Advanced Institute of Management. In 2014 she took time out of academia to co-found a training company, Personal Boardroom, which has become commercially successful. In 2016, concerned about healthcare in ageing societies, she changed fields to focus on health data research. She has an honorary research contract at UCLH and worked with clinicians at UCLH to analyse patient outcomes in the first wave of the Covid-19 pandemic. She is currently working in the Clinical Operational Resource Unit at UCL to develop machine learning models that will help bed-planners at UCLH predict which patients will be admitted from the emergency department.
   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=ZKING64
   email: zella.king@ucl.ac.uk
   number_educ: 2
-  education1: PhD in Organizational Psychology from Birkbeck College, US
-  education2: Undergraduate degree from the University of Cambridge, UK
+  education1: PhD at the Organizational Psychology from Birkbeck College, US
+  education2: Undergraduate degree at the University of Cambridge, UK
 
 
 - name: Zhiqiang (Alan) Huo
   photo: Zhiqiang.jpg
-  info: Zhiqiang (Alan) Huo now is a Research Associate at the Institute of Health Informatics (IHI), University College London (UCL). He is passionate about leveraging the power of data science to solve real-world problems and creating practical implications. <br>With multi-disciplinary research background, his research interests lie in harnessing real-world data to improve patients' healthcare and outcomes (e.g., ICU patients). Before joining UCL, he focused on improving the trustworthiness of machine health management system in industrial settings. Especially, he is into the study of time-series complexity analysis, data mining, machine learning, and sensor networks.
+  info: Zhiqiang (Alan) Huo now is a research associate at the Institute of Health Informatics (IHI), University College London (UCL). He is passionate about leveraging the power of data science to solve real-world problems and creating practical implications. <br>With multi-disciplinary research background, his research interests lie in harnessing real-world data to improve patients' healthcare and outcomes (e.g., ICU patients). Before joining UCL, he focused on improving the trustworthiness of machine health management system in industrial settings. Especially, he is into the study of time-series complexity analysis, data mining, machine learning, and sensor networks.
   homepage: http://zqhuo.com/
   email: z.huo@ucl.ac.uk
   number_educ: 2
-  education1: PhD in University of Lincoln, UK    
-  education2: Undergraduate degree from China University of Geosciences, Beijing (CUGB), China
+  education1: PhD at the University of Lincoln, UK    
+  education2: Undergraduate degree at China University of Geosciences, Beijing (CUGB), China
+
+
+- name: Paul Taylor
+  photo: paul_taylor.jpeg
+  info: Paul Taylor now is a professor at the Institute of Health Informatics (IHI), University College London (UCL). He focuses on software to improve clinical decision making. Most of the applications he has looked at in recent years concern medical imaging, including the use of AI in mammography, in retinal imaging and chest radiographs. He is interested in seeing how recent advances in the application of neural networks to medical imaging can be most effectively applied to improve the quality of clinical decision making. He is also active in the use of large datasets, including image databases, to improve the understanding of disease and the effectiveness of treatment, using a large collection of data on ophthalmology from 28 different hospitals.
+  homepage: https://www.ucl.ac.uk/health-informatics/people/paul-taylor
+  email: p.taylor@ucl.ac.uk
+  number_educ: 3
+  education1: PhD at the University College London, UK    
+  education2: Master of Science at the Imperial College of Science, Technology and Medicine
+  education3: Undergraduate degree at the University of Bristol, UK
