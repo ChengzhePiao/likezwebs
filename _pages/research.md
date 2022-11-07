@@ -29,19 +29,19 @@ CGM has produced a vast amount of BG data with its increasing use in the diabete
 
 The Paediatric patient is a special cohort of patients with a wide age range from birth through to aged 16. They need careful care and specialized treatment and intervention due to their complexity. Due to developmental disease, some children need to be referred and transported to receive a higher level of care in a children's hospital. During transport, patients are likely to experience health deterioration and poor outcomes. Our work aims to early detect patients who have a deteriorating health condition in a proactive fashion using continuously monitored patient vital signs and advanced artificial intelligence. More importantly, this will help dedicated intensivists make better decision-making whilst the whole course of transport, medication and intervention to improve the health care and outcomes of patients.
 
-## Stroke Care: improving lives of stroke patients using data (Zhiqiang Huo)
+<!-- ## Stroke Care: improving lives of stroke patients using data (Zhiqiang Huo)
 
 ![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/stroke_care.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
-Stroke is the fourth leading cause of death in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to £75bn within 20 years. 100,000 people have strokes each year in the UK. The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years. Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their clinical decision making.
+Stroke is the fourth leading cause of death in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to £75bn within 20 years. 100,000 people have strokes each year in the UK. The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years. Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their clinical decision making. -->
 
-We are commited to unlocking the potential of data - reshaping health and care for stroke survivors with data. Providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies. [MORE INFO](http://strokecare.uk)
+<!-- We are commited to unlocking the potential of data - reshaping health and care for stroke survivors with data. Providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies. [MORE INFO](http://strokecare.uk) -->
 
 
-## Health monitoring and fault diagnosis of industrial machinery system (Zhiqiang Huo)
+<!-- ## Health monitoring and fault diagnosis of industrial machinery system (Zhiqiang Huo)
 ![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/pump.png){: style="width: 250px; float: left; margin: 0px  10px"}
 
-Fault diagnosis of the multistage centrifuge air pump is of great significance to ensure a reliable and safe environment for the indsutry. This project aims to monitor and diagnose the health condition of the industrial-level equipment so that incipient faults can be identified and troubleshoot as early as possible. My role is to design and deploy condition monitoring system on the machinery. Develop data-driven fault diagnosis methods (i.e., data processing, data analysis, and decision making) to identify potential faults and distinguish between various machine health states. Involve project planning and technology choosing.
+Fault diagnosis of the multistage centrifuge air pump is of great significance to ensure a reliable and safe environment for the indsutry. This project aims to monitor and diagnose the health condition of the industrial-level equipment so that incipient faults can be identified and troubleshoot as early as possible. My role is to design and deploy condition monitoring system on the machinery. Develop data-driven fault diagnosis methods (i.e., data processing, data analysis, and decision making) to identify potential faults and distinguish between various machine health states. Involve project planning and technology choosing. -->
 
 
 ### Real-time Aggregated Prediction of Hospital Admission for Emergency (Zella King)
