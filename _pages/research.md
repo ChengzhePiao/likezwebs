@@ -37,6 +37,11 @@ Stroke is the fourth leading cause of death in the UK and single largest cause o
 
 We are commited to unlocking the potential of data - reshaping health and care for stroke survivors with data. Providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies. [More INFO](http://strokecare.uk)
 
+
+## Health monitoring and fault diagnosis of industrial machinery system (Zhiqiang Huo)
+ 
+Fault diagnosis of the multistage centrifuge air pump is of great significance to ensure a reliable and safe environment for the indsutry. This project aims to monitor and diagnose the health condition of the industrial-level equipment so that incipient faults can be identified and troubleshoot as early as possible. My role is to design and deploy condition monitoring system on the machinery. Develop data-driven fault diagnosis methods (i.e., data processing, data analysis, and decision making) to identify potential faults and distinguish between various machine health states. Involve project planning and technology choosing.
+
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
 Our goal is to build instruments and develop techniques that enable us to address the questions we find most interesting. This is possible thanks also to Milan's broad background with different research themes and technologies: he learned his trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where he investigated coupled cavity arrays in circuit QED. We further have group members with different background and interests, working together on physics and instrumentation.
