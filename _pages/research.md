@@ -44,7 +44,7 @@ Stroke is the fourth leading cause of death in the UK and single largest cause o
 Fault diagnosis of the multistage centrifuge air pump is of great significance to ensure a reliable and safe environment for the indsutry. This project aims to monitor and diagnose the health condition of the industrial-level equipment so that incipient faults can be identified and troubleshoot as early as possible. My role is to design and deploy condition monitoring system on the machinery. Develop data-driven fault diagnosis methods (i.e., data processing, data analysis, and decision making) to identify potential faults and distinguish between various machine health states. Involve project planning and technology choosing. -->
 
 
-### Real-time Aggregated Prediction of Hospital Admission for Emergency (Zella King)
+## Real-time Aggregated Prediction of Hospital Admission for Emergency (Zella King)
 
 ![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/zk_npj.png){: style="width: 50%; float: left; margin: 0px  10px"}
 
