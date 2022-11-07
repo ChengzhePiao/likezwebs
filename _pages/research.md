@@ -18,6 +18,8 @@ Diabetes is a group of chronic metabolic disorders that affect almost half a bil
 
 In an AP system, the CGM sensor measures real-time glucose concentration at a fixed frequency (e.g., every 5 min) and transmits the readings to a controller which computes the insulin doses to be delivered by a pump. **Reinforcement learning**, a sub-field of machine learning, employs a goal-oriented agent to learn the strategies for sequential decision-making, which has been increasingly applied to glycemic control, and in particular, for **basal insulin modulation**[...](https://www.mdpi.com/1424-8220/20/18/5058)
 
+![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/prediction.png){: style="width: 90%; float: center; margin: 10px"}
+
 CGM has produced a vast amount of BG data with its increasing use in the diabetes population. Taking advantage of this, the emergence of deep learning algorithms for **BG prediction** has achieved recent success and outperformed several conventional machine learning approaches in terms of accuracy. Generally, the major challenge of BG prediction lies in accounting for the intra- and interperson variability that leads to various glucose responses under different conditions. Furthermore, many external events and factors can influence glucose dynamics, such as meal ingestion, physical exercise, psychological stress, and illness. **Deep learning** is powerful at extracting hidden representations from large-scale raw data, making it suitable for accounting for the complexity of glucose dynamics in diabetes[...](http://ceur-ws.org/Vol-2675/paper15.pdf)
 
 ## Improving Healthcare and Outcomes of Critically Ill Children During Transport to a Higher Level of Care (Zhiqiang Huo)
