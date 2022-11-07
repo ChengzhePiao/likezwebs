@@ -39,7 +39,8 @@ We are commited to unlocking the potential of data - reshaping health and care f
 
 
 ## Health monitoring and fault diagnosis of industrial machinery system (Zhiqiang Huo)
- 
+![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/pump.png){: style="width: 250px; float: left; margin: 0px  10px"}
+
 Fault diagnosis of the multistage centrifuge air pump is of great significance to ensure a reliable and safe environment for the indsutry. This project aims to monitor and diagnose the health condition of the industrial-level equipment so that incipient faults can be identified and troubleshoot as early as possible. My role is to design and deploy condition monitoring system on the machinery. Develop data-driven fault diagnosis methods (i.e., data processing, data analysis, and decision making) to identify potential faults and distinguish between various machine health states. Involve project planning and technology choosing.
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
