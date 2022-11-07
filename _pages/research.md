@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-## Blood Glucose Management for People with Type 1 Diabetes
+## Blood Glucose Management for People with Type 1 Diabetes (Ken Li)
 ![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/res_bglp.png){: style="width: 90%; float: center; margin: 10px"}
 
 Diabetes is a group of chronic metabolic disorders that affect almost half a billion people worldwide1, and around 10% of them have **type 1 diabetes (T1D)**. Due to an absolute deficiency of endogenous insulin caused by pancreatic β-cell loss, the management of T1D relies on exogenous insulin delivery and adherence to a group of self-care behaviors, such as estimating dietary carbohydrate and exercise, and titrating insulin therapy. The primary objective of T1D self-management is to prevent immediate adverse glycemic events, including hypoglycemia and hyperglycemia, and minimize the risk of long-term diabetes complications. Severe hypoglycemia may cause seizures, brain damage, and intellectual impairment, while hyperglycemia is a risk factor for cardiovascular diseases, neuropathy, nephropathy and retinopathy. The development of **continuous glucose monitoring (CGM)** has led to therapeutic benefits in diabetes management. The usage of real-time CGM systems has been demonstrated to reduce the number of severe hypoglycemic events for T1D subjects with multiple daily injection (MDI). As a wearable device that automatically measures glucose levels with a fixed frequency (e.g. five minutes), CGM can be combined with an insulin pump as sensor-augmented therapy or an **artificial pancreas (AP)** for closed-loop glycemic control[...](https://www.nature.com/articles/s41746-022-00626-5)
@@ -17,6 +17,20 @@ In an AP system, the CGM sensor measures real-time glucose concentration at a fi
 
 CGM has produced a vast amount of BG data with its increasing use in the diabetes population. Taking advantage of this, the emergence of deep learning algorithms for **BG prediction** has achieved recent success and outperformed several conventional machine learning approaches in terms of accuracy. Generally, the major challenge of BG prediction lies in accounting for the intra- and interperson variability that leads to various glucose responses under different conditions. Furthermore, many external events and factors can influence glucose dynamics, such as meal ingestion, physical exercise, psychological stress, and illness. **Deep learning** is powerful at extracting hidden representations from large-scale raw data, making it suitable for accounting for the complexity of glucose dynamics in diabetes[...](http://ceur-ws.org/Vol-2675/paper15.pdf)
 
+## Improving Healthcare and Outcomes of Critically Ill Children During Transport to a Higher Level of Care (Zhiqiang Huo)
+![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/ill_child.png){: style="width: 250px; float: left; margin: 0px  10px"}
+
+"A healthy person has a thousand wishes, a sick man has but one - Berger R, 1986"
+
+The Paediatric patient is a special cohort of patients with a wide age range from birth through to aged 16. They need careful care and specialized treatment and intervention due to their complexity. Due to developmental disease, some children need to be referred and transported to receive a higher level of care in a children's hospital. During transport, patients are likely to experience health deterioration and poor outcomes. Our work aims to early detect patients who have a deteriorating health condition in a proactive fashion using continuously monitored patient vital signs and advanced artificial intelligence. More importantly, this will help dedicated intensivists make better decision-making whilst the whole course of transport, medication and intervention to improve the health care and outcomes of patients.
+
+## Stroke Care: improving lives of stroke patients using data (Zhiqiang Huo)
+
+![]({{ site.remote_url }}{{ site.baseurl }}/images/respic/stroke_care.png){: style="width: 250px; float: left; margin: 0px  10px"}
+
+Stroke is the fourth leading cause of death in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to £75bn within 20 years. 100,000 people have strokes each year in the UK. The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years. Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their clinical decision making.
+
+We are commited to unlocking the potential of data - reshaping health and care for stroke survivors with data. Providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies. More info is at: http://strokecare.uk.
 
 <!-- Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
 
