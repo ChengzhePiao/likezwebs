@@ -43,6 +43,15 @@
     display: June 2022, Lancet Digital Health
   highlight: 1
 
+- title: " Automating perfusion assessment of sublingual microcirculation in critical illness"
+  image: 2022_CT_DSG.jpg
+  description: This challenge aimed to establish whether a single validated measure of microcirculatory perfusion (microcirculatory flow index) can be predicted directly from a DFM video sequence, without intermediate manual analysis steps. Automatic analysis that can be carried out in (near) real-time would facilitate the incorporation of microcirulatory targets into clinical trials by enabling the impact of interventions to be quantified and enacted upon with the aim of optimising the microcirculation and improving patient outcomes.
+  authors: Chris Tomlinson, Jan Grols, Ramit Debnath, Sarah Johnson, Max Barton, Tianyu Han, Seyedeh Nazanin Khatami, Giacomo Baldo, Aniketh Ramesh, Diego Cammarano, Kashif Rajpoot
+  link:
+    url: https://doi.org/10.5281/zenodo.6799096
+    display: September 2021, Turing Data Study Group Final Report
+  highlight: 1
+
 # - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
 #   image: TBG_SL.png
 #   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
