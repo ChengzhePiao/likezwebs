@@ -27,7 +27,7 @@
 
 - title: "Deep reinforcement learning for platelet inventory management"
   image: zk_cdt.png
-  description: We created an reinforcement learning environment based on a platelet replenishment scenario from the literature and demonstrate that DRL methods can be used to learn effective ordering policies.
+  description: Platelets are a blood component required for the formation of clots. Patients may receive a platelet transfusion to either stop or prevent bleeding. Hospital blood banks hold stock on-site to fill orders for patients, and place orders for replenishment with a regional blood bank that serves multiple hospitals. This stock management process is complicated by the need for compatibility between donor units and patients, and by the short shelf-life of platelets. We created an reinforcement learning environment based on a platelet replenishment scenario from the literature and demonstrate that DRL methods can be used to learn effective ordering policies.
   authors: J. Farrington, K. Li, M. Utley, W. K. Wong
   link:
     url: 
