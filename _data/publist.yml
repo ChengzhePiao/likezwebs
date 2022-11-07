@@ -9,7 +9,7 @@
 
 - title: "Machine learning for real-time aggregated prediction of hospital admission for emergency patients"
   image: zk_npj_paper.png
-  description: We propose a novel deep learning framework, Fast-adaptive and Confident Neural Network (FCNN). An attention-based recurrent neural network is used to learn representations from contiuous glucose monitoring input and forward a weighted sum of hidden states to an evidential output layer, aiming to compute personalized BG predictions with theoretically supported model confidence. The model-agnostic meta-learning is employed to enable fast adaptation for a new T1D subject with limited training data.
+  description: Machine learning for hospital operations is under-studied. We present a prediction pipeline that uses live electronic health-records for patients in a UK teaching hospital’s emergency department (ED) to generate short-term, probabilistic forecasts of emergency admissions. A set of XGBoost classifiers applied to 109,465 ED visits yielded AUROCs from 0.82 to 0.90 depending on elapsed visit-time at the point of prediction. Patient-level probabilities of admission were aggregated to forecast the number of admissions among current ED patients and, incorporating patients yet to arrive, total emergency admissions within specified time-windows. 
   authors: Z. King, J. Farrington, M. Utley, E. Kung, S. Elkhodair, S. Harris, R. Sekula, J. Gillham, K. Li, S. Crowe 
   link:
     url: https://www.nature.com/articles/s41746-022-00649-y
