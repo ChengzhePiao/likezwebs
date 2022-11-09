@@ -6,8 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Institute of Health Informatics (IHI)](https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics), [University College London (UCL)](https://www.ucl.ac.uk/). Our aim is to explore Artificial Intellignence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithms design, chronic disease care, hospital & patient management, precision medicine, health informatics, medical wearable technology, etc. 
-
+We are a dynamic research group at the [Institute of Health Informatics (IHI)](https://www.ucl.ac.uk/health-informatics/ucl-institute-health-informatics), [University College London (UCL)](https://www.ucl.ac.uk/). Our aim is to explore Artificial Intelligence (AI) applications in healthcare and implement them in real healthcare systems. Specifically, our work includes practical algorithm design, chronic disease care, hospital & patient management, precision medicine, health informatics, medical wearable technology, etc.
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
@@ -53,14 +52,13 @@ We are a dynamic research group at the [Institute of Health Informatics (IHI)](h
   </a>
 </div>
 
+To this end, we develop ML & AI algorithms to estimate and predict events in various healthcare scenarios using data ranging from biomarker time series to hospital EHR. With the help of clinicians, patients and researchers, we also embed and deploy the proposed methods in hospitals & clinical trials, promoting AI from papers to healthcare systems to make real impact in improving human’s wellbeing.
 
-To this end, we develop ML & AL algorithms in estimating and predicting incidents in various healthcare scenarios using personal time series and public EHR data. With the help of clinicians, patients and researchers, we also embed and deploy the proposed methods in hospitals & clinical trials, promoting AI from papers to healthcare systems to make real impact in improving human’s wellbeing. 
-
-We are located at UCL London, the birthplace of Deepmind and have close collaborations with NHS hospitals (UCLH, etc). Our Institute is home to a unique range of expertise and talent resulting in highly impactful, world-changing research using large scale data and advanced analytics. 
+We are located at [University College London (UCL)](https://www.ucl.ac.uk/), the birthplace of Deepmind, and have close collaborations with NHS hospitals ([UCLH](https://www.uclh.nhs.uk/), etc). Our Institute is home to a unique range of expertise and talent resulting in highly impactful, world-changing research using large scale data and advanced analytics.
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.remote_url }}{{ site.baseurl }}/vacancies) **!**
 
-We are grateful for funding from NHS-X, Rosetrees Trust, UKRI CDT, and UCL Hospital and Great Ormond Stree Hospital. 
+We are grateful for funding from NHS-X, Rosetrees Trust, UKRI CDT, and UCL Hospital and Great Ormond Street Hospital.
 
 
 <figure class="fifth">

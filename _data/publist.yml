@@ -34,6 +34,33 @@
     display: January 2022, UK CDT_conference
   highlight: 1
 
+- title: "COVID-19 trajectories among 57 million adults in England: a cohort study using electronic health records"
+  image: 2022_CT_LDH.jpg
+  description: In this first-of-its-kind study, researchers from UCL combined multiple NHS datasets on national laboratory testing data, primary care consultations, hospitalisations and deaths to reveal the exact trajectory of individuals through the healthcare system during the pandemic, and what impact this had on their health outcomes.
+  authors: Johan H Thygesen, Chris Tomlinson, Sam Hollings, Mehrdad Mizani, Alex Handy, Ashley Akbari, Amitava Banerjee, Jennifer Cooper, Alvina Lai, Ken Li, Bilal Mateen, Naveed Sattar, Reecha Sofat, Ana Torralbo, Honghan Wu, Angela Wood, Jonathan A C Sterne, Christina Pagel, William Whiteley, Cathie Sudlow, Harry Hemingway, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium
+  link:
+    url: https://doi.org/10.1016/S2589-7500%2822%2900091-7
+    display: June 2022, Lancet Digital Health
+  highlight: 1
+
+- title: "Automating perfusion assessment of sublingual microcirculation in critical illness"
+  image: 2022_CT_DSG.jpg
+  description: This challenge aimed to establish whether a single validated measure of microcirculatory perfusion (microcirculatory flow index) can be predicted directly from a DFM video sequence, without intermediate manual analysis steps. Automatic analysis that can be carried out in (near) real-time would facilitate the incorporation of microcirulatory targets into clinical trials by enabling the impact of interventions to be quantified and enacted upon with the aim of optimising the microcirculation and improving patient outcomes.
+  authors: Chris Tomlinson, Jan Grols, Ramit Debnath, Sarah Johnson, Max Barton, Tianyu Han, Seyedeh Nazanin Khatami, Giacomo Baldo, Aniketh Ramesh, Diego Cammarano, Kashif Rajpoot
+  link:
+    url: https://doi.org/10.5281/zenodo.6799096
+    display: September 2021, Turing Data Study Group Final Report
+  highlight: 1
+
+- title: "A nationwide deep learning pipeline to predict stroke and COVID-19 death in atrial fibrillation"
+  image: 2021_CT_DL4stroke.jpg
+  description: In this study, we design and build the first DL and ML pipeline that uses the routinely updated, linked EHR data for 56 million people in England accessed via NHS Digital to predict first ischaemic stroke in people with AF, and as a secondary outcome, COVID-19 death. Our pipeline improves first stroke prediction in AF by 17% compared to CHA2DS2-VASc (0.61 (0.57-0.65) vs 0.52 (0.52-0.52) area under the receiver operating characteristics curves, 95% confidence interval) and provides a generalisable, opensource framework that other researchers and developers can build on.
+  authors: Alex Handy, Angela Wood, Cathie Sudlow, Chris Tomlinson, Frank Kee, Johan H Thygesen, Mohammad Mamouei, Reecha Sofat, Richard Dobson, Samantha Ip, Spiros Denaxas, on behalf of the CVD-COVID-UK Consortium
+  link:
+    url: https://doi.org/10.1101/2021.12.20.21268113
+    display: December 2021, medRxiv (preprint)
+  highlight: 1
+
 # - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
 #   image: TBG_SL.png
 #   description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
