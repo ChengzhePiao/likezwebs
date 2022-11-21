@@ -23,25 +23,25 @@
 #   education1:
 
 
-- name: Joseph Farrington
+- name: Joseph Farrington (co-supervisor - Wai Keong Wong)
   photo: Joseph.jpg
   info: PhD student, Artificial Intelligence Enabled Healthcare, 2020-2024. 
   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=JMFAR78
   email: joseph.farrington.18@ucl.ac.uk
   number_educ: 2
-  education1: MSc in Machine Learning, at the University College London (UCL), UK
-  education2: BA in Natural Sciences, at the University of Cambridge, UK
+  education1: MSc in Machine Learning, at University College London (UCL), UK
+  education2: BA in Natural Sciences, at University of Cambridge, UK
 
-- name: Thomas Keen
+- name: Thomas Keen (co-supervisor - Steve Harris)
   photo: tom.png
   info: PhD student, Institute of Child Health, 2021-.
   homepage: https://iris.ucl.ac.uk/iris/browse/profile?upi=TKEEN17
   email: t.keen@ucl.ac.uk
   number_educ: 1
-  education1: Undergraduate and postgraduate in Mathematics & Philosophy, at the University of Oxford, UK
+  education1: Undergraduate and postgraduate in Mathematics & Philosophy, at University of Oxford, UK
 
 
-- name: Chris Tomlinson
+- name: Chris Tomlinson (co-supervisor - Alvina Lai)
   photo: Chris.jpg
   info: PhD student, Artificial Intelligence Enabled Healthcare, 2021-2024.
   homepage: https://www.ctomlinson.net/
@@ -51,10 +51,19 @@
   education2: MBBS at University College London (UCL), UK 
 
 
-- name: Chengzhe Piao
+- name: Chengzhe Piao (co-supervisor - Jun Wang)
   photo: Chengzhe2.png
   info: PhD student, Artificial Intelligence Enabled Healthcare, 2022-2025.
   homepage: https://scholar.google.com/citations?user=f0Kjn88AAAAJ&hl=en
   email: chengzhe.piao.21@ucl.ac.uk
   number_educ: 1
   education1: MSc, BSc at Beijing Insitute of Technology (BIT), China
+
+- name: Thomas Frost (co-supervisor - Steve Harris)
+  photo: tom_frost.jpeg
+  info: PhD student, Artificial Intelligence Enabled Healthcare, 2022-2025.
+  homepage: https://www.linkedin.com/in/dr-thomas-frost-44709777/?locale=sv_SE
+  email: thomas.frost.21@ucl.ac.uk
+  number_educ: 2
+  education1: Master of Arts in Medical Sciences at University of Oxford, UK
+  education2: BMBCh at University of Oxford, UK
