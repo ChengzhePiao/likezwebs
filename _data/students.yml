@@ -67,3 +67,11 @@
   number_educ: 2
   education1: Master of Arts in Medical Sciences at University of Oxford, UK
   education2: BMBCh at University of Oxford, UK
+
+- name: Zhijun Guo
+  photo: zhijun.jpeg
+  info: PhD student, Artificial Intelligence Enabled Healthcare, 2023-
+  email: zhijun.guo.21@ucl.ac.uk
+  number_educ: 2
+  education1: MSc in Health Data Science, at University College London (UCL), UK
+  education2: BA in Mathematics, at Kings College London (KCL), UK

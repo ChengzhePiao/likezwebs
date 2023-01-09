@@ -1,4 +1,4 @@
-I"(<h1 id="group-members">Group Members</h1>
+I"$.<h1 id="group-members">Group Members</h1>
 
 <p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="https://chengzhepiao.github.io/likezwebs/vacancies">(see openings)</a> <strong>!</strong></p>
 
@@ -90,7 +90,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/paul_taylor.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Paul Taylor</h4>
-    <p>Paul Taylor now is a professor at the Institute of Health Informatics (IHI), University College London (UCL). He focuses on software to improve clinical decision making. Most of the applications he has looked at in recent years concern medical imaging, including the use of AI in mammography, in retinal imaging and chest radiographs. He is interested in seeing how recent advances in the application of neural networks to medical imaging can be most effectively applied to improve the quality of clinical decision making. He is also active in the use of large datasets, including image databases, to improve the understanding of disease and the effectiveness of treatment, using a large collection of data on ophthalmology from 28 different hospitals. 
+    <p>Paul Taylor now is a professor at the Institute of Health Informatics (IHI), University College London (UCL). He focuses on software to improve clinical decision making. Most of the applications he has looked at in recent years concern medical imaging, including the use of AI in mammography, in retinal imaging and chest radiographs. He is interested in seeing how recent advances in the application of neural networks to medical imaging can be most effectively applied to improve the quality of clinical decision making. He is also active in the use of large datasets, including image databases, to improve the understanding of disease and the effectiveness of treatment, using a large collection of data on ophthalmology from 28 different hospitals. <br /> He teaches on the UCL Postgraduate programmes in Health Informatics, where he is responsible for the core module ‘Essentials of Informatics for Health Systems’, ‘Health Data Analyics’ and ‘Health Data Science’, and on the UCL MBBS programme. 
   <br /><a href="https://www.ucl.ac.uk/health-informatics/people/paul-taylor" target="_blank" rel="noopener noreferrer">Homepage</a>
   <br /><b>Email</b>: <a href="mailto:p.taylor@ucl.ac.uk">p.taylor@ucl.ac.uk</a>
   <br /><b>Educations</b>:</p>
@@ -122,7 +122,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/Joseph.jpg" class="img-responsive" width="25%" style="float: left" /></p>
 
-    <h4>Joseph Farrington</h4>
+    <h4>Joseph Farrington (co-supervisor - Wai Keong Wong)</h4>
     <p>PhD student, Artificial Intelligence Enabled Healthcare, 2020-2024. 
   <br /><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=JMFAR78" target="_blank" rel="noopener noreferrer">Homepage</a>
   <br /><b>Email</b>: <a href="mailto:joseph.farrington.18@ucl.ac.uk">joseph.farrington.18@ucl.ac.uk</a>
@@ -132,8 +132,8 @@
   
 
   
-  <li> MSc in Machine Learning, at the University College London (UCL), UK </li>
-  <li> BA in Natural Sciences, at the University of Cambridge, UK </li>
+  <li> MSc in Machine Learning, at University College London (UCL), UK </li>
+  <li> BA in Natural Sciences, at University of Cambridge, UK </li>
   
 
   
@@ -144,9 +144,9 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/no_photo.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/tom.png" class="img-responsive" width="25%" style="float: left" /></p>
 
-    <h4>Thomas Keen</h4>
+    <h4>Thomas Keen (co-supervisor - Steve Harris)</h4>
     <p>PhD student, Institute of Child Health, 2021-. 
   <br /><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TKEEN17" target="_blank" rel="noopener noreferrer">Homepage</a>
   <br /><b>Email</b>: <a href="mailto:t.keen@ucl.ac.uk">t.keen@ucl.ac.uk</a>
@@ -154,7 +154,7 @@
     <ul style="overflow: hidden">
 
   
-  <li> Undergraduate and postgraducate in Mathematics &amp; Philosophy, at the University of Cambridge, UK </li>
+  <li> Undergraduate and postgraduate in Mathematics &amp; Philosophy, at University of Oxford, UK </li>
   
 
   
@@ -173,9 +173,9 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/Chris.jpg" class="img-responsive" width="25%" style="float: left" /></p>
 
-    <h4>Chris Tomlinson</h4>
+    <h4>Chris Tomlinson (co-supervisor - Alvina Lai)</h4>
     <p>PhD student, Artificial Intelligence Enabled Healthcare, 2021-2024. 
-  <br /><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=CTOML04" target="_blank" rel="noopener noreferrer">Homepage</a>
+  <br /><a href="https://www.ctomlinson.net/" target="_blank" rel="noopener noreferrer">Homepage</a>
   <br /><b>Email</b>: <a href="mailto:christopher.tomlinson@ucl.ac.uk">christopher.tomlinson@ucl.ac.uk</a>
   <br /><b>Educations</b>:</p>
     <ul style="overflow: hidden">
@@ -197,7 +197,7 @@
   <div class="col-sm-6 clearfix">
     <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/Chengzhe2.png" class="img-responsive" width="25%" style="float: left" /></p>
 
-    <h4>Chengzhe Piao</h4>
+    <h4>Chengzhe Piao (co-supervisor - Jun Wang)</h4>
     <p>PhD student, Artificial Intelligence Enabled Healthcare, 2022-2025. 
   <br /><a href="https://scholar.google.com/citations?user=f0Kjn88AAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Homepage</a>
   <br /><b>Email</b>: <a href="mailto:chengzhe.piao.21@ucl.ac.uk">chengzhe.piao.21@ucl.ac.uk</a>
@@ -206,6 +206,55 @@
 
   
   <li> MSc, BSc at Beijing Insitute of Technology (BIT), China </li>
+  
+
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/tom_frost.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4>Thomas Frost (co-supervisor - Steve Harris)</h4>
+    <p>PhD student, Artificial Intelligence Enabled Healthcare, 2022-2025. 
+  <br /><a href="https://www.linkedin.com/in/dr-thomas-frost-44709777/?locale=sv_SE" target="_blank" rel="noopener noreferrer">Homepage</a>
+  <br /><b>Email</b>: <a href="mailto:thomas.frost.21@ucl.ac.uk">thomas.frost.21@ucl.ac.uk</a>
+  <br /><b>Educations</b>:</p>
+    <ul style="overflow: hidden">
+
+  
+
+  
+  <li> Master of Arts in Medical Sciences at University of Oxford, UK </li>
+  <li> BMBCh at University of Oxford, UK </li>
+  
+
+  
+
+  
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="https://chengzhepiao.github.io/likezwebs/images/teampic/zhijun.jpeg" class="img-responsive" width="25%" style="float: left" /></p>
+
+    <h4>Zhijun Guo</h4>
+
+    <p><br /><a href="" target="_blank" rel="noopener noreferrer">Homepage</a>
+  <br /><b>Email</b>: &lt;&gt;
+  <br /><b>Educations</b>:</p>
+    <ul style="overflow: hidden">
+
   
 
   
